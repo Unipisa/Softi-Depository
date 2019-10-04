@@ -1,9 +1,13 @@
-# Softi Workbench
+# Softi Depository
 
-### This is the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) depository for the acquisition of Softi, code for the CEP by Tonina Starita in 1968, to smoothen a curve.
+### This is the depository for the acquisition of Softi, code for the CEP by Tonina Starita in 1968, to smoothen a curve.
 
-* [Softi](https://github.com/Unipisa/Softi)
+This repository was created with the support of the 
+[Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE) and contains 
+the [raw materials](./raw_materials) and the [browsable source](./browsable_source).
 
-* [Softi-Workbench](https://github.com/Unipisa/Softi-Workbench)
+[Information on the acquisition process](https://github.com/Unipisa/SW_NAME-Workbench/tree/master/metadata) can be found in the [Workbench](https://github.com/Unipisa/SW_NAME-Workbench).
 
-* [Softi browsable source](https://github.com/Unipisa/Softi-Depository/tree/master/browsable_source/)
+The resulting 
+[development history](https://github.com/Unipisa/SW_NAME/tree/SourceCode/)  can be found in the [Softi repository](https://github.com/Unipisa/SW_NAME).
+
